@@ -1,0 +1,18 @@
+.kirtan img{
+height: 100%;
+width: 100%;
+border-radius: 40px;
+}
+.content__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .for{
+    height: 120px;
+    position: sticky;
+    top: 0;
+    color: burlywood;
+    font-size: 250%;
+    font-family: 'Courier New', Courier,;
+}
